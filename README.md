@@ -5,9 +5,8 @@
 ---
 
 ### SQL수업
-![SQL 수료증](SQL/BDA_SQL_Certification.png)
-<br/>
-[SQL 수료증 PDF 다운로드](SQL/BDA_SQL_Certification.pdf)
+* < SQL 수업 수료증 >
+![(대량 1) 11기 수료학회원-BDAI-51_page-0001](https://github.com/user-attachments/assets/2b02d47d-9863-4216-88c9-3273a1a94c7f)
 <br/>
 1주차 : OT 및 강연자 소개
 <br/>
@@ -43,9 +42,8 @@
 
 
 ### ML
-![ML 수료증](ML/BDA_ML_Certification.png)
-<br/>
-[ML 수료증 PDF 다운로드](ML/BDA_ML_Certification.pdf)
+* < ML 수업 수료증 >
+![(대량 2) 11기 수료학회원-BDAI-26_page-0001](https://github.com/user-attachments/assets/84a27959-9694-437b-876b-ed5f4db20063)
 <br/>
 1주차 : OT 및 수업 진행 방식 소개
 <br/>
