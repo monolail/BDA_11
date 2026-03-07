@@ -5,6 +5,10 @@
 ---
 
 ### SQL수업
+![SQL 수료증](SQL/BDA_SQL_Certification.png)
+<br/>
+[SQL 수료증 PDF 다운로드](SQL/BDA_SQL_Certification.pdf)
+<br/>
 1주차 : OT 및 강연자 소개
 <br/>
 2주차 : DB 관리 시스템
@@ -39,6 +43,10 @@
 
 
 ### ML
+![ML 수료증](ML/BDA_ML_Certification.png)
+<br/>
+[ML 수료증 PDF 다운로드](ML/BDA_ML_Certification.pdf)
+<br/>
 1주차 : OT 및 수업 진행 방식 소개
 <br/>
 2주차 : 파이썬 및 판다스 복습
